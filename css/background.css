@@ -1,0 +1,8 @@
+.background {
+    width: 900px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 10px solid rgba(10, 190, 226, 0.312);
+    color: #111111;
+}
