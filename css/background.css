@@ -4,5 +4,15 @@
     margin: 0 auto;
     padding: 20px;
     border: 10px solid rgba(10, 190, 226, 0.312);
-    color: #111111;
+    color: #ffffff;
+    background-color: black;
+
+    background-image: linear-gradient(rgba(0, 0, 255, 0.493), rgba(255, 255, 0, 0.499)), url(../images/background/bigthumbnail.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 50% 50%; */
+    /* background-position: right 15px bottom 15px; */
+    background-position: left top;
+    background-size: cover;
+    background-origin: padding-box;
+    background-clip: padding-box;
 }

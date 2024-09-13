@@ -31,6 +31,8 @@ img {
     display: flex;
     gap: 10px;
     justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .menu {
     
@@ -40,5 +42,6 @@ img {
 
 }
 .menu-link {
-    font-size: 10px;
+    
+    font-size: 20px;
 }
